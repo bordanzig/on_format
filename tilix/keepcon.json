@@ -1,0 +1,35 @@
+{
+    "child": {
+        "child1": {
+            "directory": "\/home\/gbordanzi\/trabajo\/keepcon\/self_service",
+            "height": 360,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "826032db-a5b5-477c-b850-9f8aab89f660",
+            "width": 1366
+        },
+        "child2": {
+            "directory": "\/home\/gbordanzi\/trabajo\/keepcon\/monitoring_model",
+            "height": 355,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "5f6532f6-fbe9-4b2e-9890-69ed451d451c",
+            "width": 1366
+        },
+        "orientation": 1,
+        "position": 50,
+        "ratio": 0.5,
+        "type": "Paned"
+    },
+    "height": 720,
+    "name": "Default",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "184f468d-813d-4a0f-a64c-7f893e22acbc",
+    "version": "1.0",
+    "width": 1366
+}

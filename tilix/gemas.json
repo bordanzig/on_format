@@ -1,0 +1,67 @@
+{
+    "child": {
+        "child1": {
+            "child1": {
+                "directory": "\/home\/gbordanzi\/trabajo\/keepcon\/insights",
+                "height": 378,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "e41bafa3-fdf7-4fa8-b6eb-372ca0e82e04",
+                "width": 683
+            },
+            "child2": {
+                "directory": "\/home\/gbordanzi\/trabajo\/keepcon\/journalist",
+                "height": 378,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "0c623712-d39a-43ad-959b-95f9214eb44e",
+                "width": 682
+            },
+            "orientation": 0,
+            "position": 50,
+            "ratio": 0.5,
+            "type": "Paned"
+        },
+        "child2": {
+            "child1": {
+                "directory": "\/home\/gbordanzi\/trabajo\/keepcon\/elasticated",
+                "height": 345,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "be9dfcaf-7b97-4110-9a9c-b9a627c5261f",
+                "width": 683
+            },
+            "child2": {
+                "directory": "\/home\/gbordanzi\/trabajo\/keepcon\/keepcon_index_selection_strategies",
+                "height": 345,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "8b56355d-3154-430f-8801-e986d0a029fc",
+                "width": 682
+            },
+            "orientation": 0,
+            "position": 50,
+            "ratio": 0.5,
+            "type": "Paned"
+        },
+        "orientation": 1,
+        "position": 52,
+        "ratio": 0.522099447513812209,
+        "type": "Paned"
+    },
+    "height": 724,
+    "name": "",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "88b6f75a-0edb-496e-9368-a1aaf7ecf3d4",
+    "version": "1.0",
+    "width": 1366
+}

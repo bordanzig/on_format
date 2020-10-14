@@ -1,0 +1,20 @@
+1.    Get source name with pacmd list-sources | grep name:
+
+Sample output:
+
+name: <alsa_output.pci-0000_00_1b.0.analog-stereo.monitor>
+name: <alsa_input.pci-0000_00_1b.0.analog-stereo>
+
+2. You need to remap
+
+pacmd load-module module-remap-source master=alsa_input.pci-0000_00_1b.0.analog-stereo source_name=mono channels=1 channel_map=right
+
+3. And add at the end of the file /etc/pulse/default.pa the same line as in step 2 but without the pacmd
+
+load-module module-remap-source master=alsa_input.pci-0000_00_1b.0.analog-stereo source_name=mono channels=1 channel_map=right
+# if you want make the mono source default
+set-default-source mono
+
+4. Reboot
+
+
